@@ -2,37 +2,37 @@ import Key from '../i18nKey'
 import type { Translation } from '../translation'
 
 export const en: Translation = {
-  [Key.home]: 'Home',
-  [Key.about]: 'About',
-  [Key.archive]: 'Archive',
-  [Key.search]: 'Search',
+  [Key.home]: 'Главная',
+  [Key.about]: 'Обо мне',
+  [Key.archive]: 'Архив',
+  [Key.search]: 'Поиск',
 
-  [Key.tags]: 'Tags',
-  [Key.categories]: 'Categories',
-  [Key.recentPosts]: 'Recent Posts',
+  [Key.tags]: 'Тэги',
+  [Key.categories]: 'Категории',
+  [Key.recentPosts]: 'Последние посты',
 
-  [Key.comments]: 'Comments',
+  [Key.comments]: 'Комментарии',
 
-  [Key.untitled]: 'Untitled',
-  [Key.uncategorized]: 'Uncategorized',
-  [Key.noTags]: 'No Tags',
+  [Key.untitled]: 'Без названия',
+  [Key.uncategorized]: 'Без категории',
+  [Key.noTags]: 'Теги не указаны',
 
-  [Key.wordCount]: 'word',
-  [Key.wordsCount]: 'words',
-  [Key.minuteCount]: 'minute',
-  [Key.minutesCount]: 'minutes',
-  [Key.postCount]: 'post',
-  [Key.postsCount]: 'posts',
+  [Key.wordCount]: 'слова',
+  [Key.wordsCount]: 'слов',
+  [Key.minuteCount]: 'минуты',
+  [Key.minutesCount]: 'минут',
+  [Key.postCount]: 'пост',
+  [Key.postsCount]: 'постов',
 
-  [Key.themeColor]: 'Theme Color',
+  [Key.themeColor]: 'Палитра',
 
-  [Key.lightMode]: 'Light',
-  [Key.darkMode]: 'Dark',
-  [Key.systemMode]: 'System',
+  [Key.lightMode]: 'Светлая',
+  [Key.darkMode]: 'Темная',
+  [Key.systemMode]: 'Системная',
 
-  [Key.more]: 'More',
+  [Key.more]: 'Больше',
 
-  [Key.author]: 'Author',
-  [Key.publishedAt]: 'Published at',
-  [Key.license]: 'License',
+  [Key.author]: 'Автор',
+  [Key.publishedAt]: 'Опубликовано в',
+  [Key.license]: 'Лицензия',
 }
