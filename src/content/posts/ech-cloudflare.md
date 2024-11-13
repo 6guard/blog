@@ -32,7 +32,8 @@ Cloudflare активировал поддержку ECH по умолчанию
 
 -   `{ID_ZONE}`  - Вы его можете получить в панели управления вашим доменом.
     -   Переходите  в [дашборд CloudFlare](https://dash.cloudflare.com/websites)  и выбираете свой домен.
-    -   Как только выбрали в правом меню у вас будет написан ваш Zone ID.  ![enter image description here](https://kappa.lol/t/8YEb9)
+    -   Как только выбрали в правом меню у вас будет написан ваш Zone ID.
+      ![enter image description here](https://kappa.lol/t/8YEb9)
 -   `{GLOBAL_API_KEY}`  — Для его получения переходите в [панель управление ключами](https://dash.cloudflare.com/profile/api-tokens). 
     В разделе API Tokens используйте Global API Key или создайте новый API с нужными правами.  
  ![enter image description here](https://kappa.lol/t/2RKuy)
