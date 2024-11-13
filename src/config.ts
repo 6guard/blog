@@ -42,18 +42,18 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.Home,
     LinkPreset.Archive,
     LinkPreset.About,
-    // {
-    //   name: 'Telegram',
-    //   url: 'https://t.me/sixguard',     // Internal links should not include the base path, as it is automatically added
-    //   external: true,                               // Show an external link icon and will open in a new tab
-    // },
+    {
+      name: 'TimeWeb Cloud',
+      url: 'https://timeweb.cloud/r/6guard',     // Internal links should not include the base path, as it is automatically added
+      external: true,                               // Show an external link icon and will open in a new tab
+    },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
   avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  name: 'Ilya Koma',
+  bio: 'Специалист информационной поддержки облачного провайдера TimeWeb Cloud',
   links: [
     {
       name: 'Telegram',
