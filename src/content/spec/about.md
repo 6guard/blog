@@ -4,6 +4,6 @@
 
 Массивных лонгридов здесь не планируется — только полезная и не очень информация.
 
-> ### Данный блог создан с помощью Astro, деплой выполнен с помощью TimeWeb Apps
+> ### Блог создан с помощью Astro, деплой выполнен с помощью TimeWeb Apps
 > - [Astro](https://astro.build/)
 > - [TimeWeb Apps](https://timeweb.cloud/services/apps)
