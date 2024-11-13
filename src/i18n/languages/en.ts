@@ -7,7 +7,7 @@ export const en: Translation = {
   [Key.archive]: 'Архив',
   [Key.search]: 'Поиск',
 
-  [Key.tags]: 'Тэги',
+  [Key.tags]: 'Теги',
   [Key.categories]: 'Категории',
   [Key.recentPosts]: 'Последние посты',
 
@@ -19,8 +19,8 @@ export const en: Translation = {
 
   [Key.wordCount]: 'слова',
   [Key.wordsCount]: 'слов',
-  [Key.minuteCount]: 'минуты',
-  [Key.minutesCount]: 'минут',
+  [Key.minuteCount]: 'минут',
+  [Key.minutesCount]: 'минуты',
   [Key.postCount]: 'пост',
   [Key.postsCount]: 'постов',
 
